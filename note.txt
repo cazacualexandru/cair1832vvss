@@ -1,0 +1,7 @@
+1;matematica;1.0
+1;informatica;8.0
+2;informatica;5.0
+2;matematica;5.0
+3;matematica;3.0
+3;informatica;3.0
+1;matematica;2.0
